@@ -104,6 +104,6 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
- <li>By email: mailto:msyudin.feedback@gmail.com </li>
+ <li>By email: msyudin.feedback@gmail.com </li>
  
  </ul>
