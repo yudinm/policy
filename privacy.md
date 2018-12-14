@@ -6,7 +6,7 @@
 
 <p>Cards For Kids ("us", "we", or "our") operates the Cards For Kids mobile application (the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Cards For Kids is based on the <a href="https://www.freeprivacypolicy.com/blog/sample-privacy-policy-template/">Free Privacy Policy Template Website</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. </p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -93,11 +93,6 @@
 <h2>Links To Other Sites</h2>
 <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-
-
-<h2>Children's Privacy</h2>
-<p>Our Service does not address anyone under the age of 18 ("Children").</p>
-<p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
 
 
 <h2>Changes To This Privacy Policy</h2>
