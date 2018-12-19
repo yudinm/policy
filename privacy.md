@@ -4,7 +4,7 @@
 <p>Effective date: December 14, 2018</p>
 
 
-<p>Cards For Kids ("us", "we", or "our") operates the Cards For Kids mobile application (the "Service").</p>
+<p>Cards For Baby ("us", "we", or "our") operates the Cards For Baby mobile application (the "Service").</p>
 
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. </p>
 
